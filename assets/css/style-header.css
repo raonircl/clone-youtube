@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    background: #000;
+}
+
+.menu-container {
+    width: 1440px;
+    height: 56px;
+    background-color: #ffffff;
+    padding: 0px 24px 0px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu-left {
+    width: 146px;
+    height: 24px;
+    align-items: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+#menu {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 24px;
+}
+
+#youtube-1 {
+    position: absolute;
+    width: 90px;
+    height: 20px;
+    top: 18px;
+    left: 80px;
+}
+
+.center {
+    width: 404px;
+    height: 40px;
+    border: 1px solid #cccccc;
+    display: flex;
+    position: relative;
+}
+
+#rectangle-1 {
+    width: 348px;
+    top: 8px;
+    left: 526px;
+    border: 1px solid #cccccc;
+    color: #ffffff;
+}
+
+#rectangle-2 {
+    width: 57px;
+    top: 8px;
+    left: 873px;
+    border: 1px solid #cccccc;
+}
+
+#search {
+    width: 24px;
+    height: 24px;
+    top: 16px;
+    left: 887px;
+}
+
+#video {
+    width: 24px;
+    height: 24px;
+}
+
+#bell {
+    width: 24px;
+    height: 24px;
+}
+
+#avatar {
+    width: 34px;
+    height: 34px;
+}
+
+.right {
+    position: relative;
+    width: 130px;
+    height: 34px;
+    gap: 24px;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
