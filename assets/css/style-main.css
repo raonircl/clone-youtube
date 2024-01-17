@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+    top: -512px;
+    left: -720px;
+}
+
+.watching-video {
+    width: 952px;
+    height: 746px;
+    top: 84px;
+    left: 75px;
+    gap: 16px;
+    position: relative;
+}
+
+#texth1 {
+    width: 930px;
+    height: 23px;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+#video-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 902px;
+    height: 42px;
+}
+
+#channel-infos {
+    width: 160px;
+    height: 42px;
+    gap: 12px;
+}
+
+#subscribe-button {
+    width: 159px;
+    height: 40px;
+    border-radius: 2px;
+}
+
+#like {
+    width: 63px;
+    height: 24px;
+}
+
+#deslike {
+    width: 100px;
+    height: 24px;
+}
+
+#share {
+    width: 115px;
+    height: 24px;
+}
+
+#download {
+    width: 95px;
+    height: 24px;
+}
+
+#visualizacoes {
+    width: 430px;
+    height: 16px;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+
+#inicie {
+    width: 510px;
+    height: 64px;
+    font-size: 14px;
+    line-height: 16.41px;
+    color: #515151;
+}
