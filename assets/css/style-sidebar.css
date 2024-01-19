@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+    width: 160px;
+    height: 938px;
+    position: absolute;
+    top: 84px;
+    left: 1052px; 
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px;
+}
+
+.video {
+    width: 160px;
+    height: 90px;
+}
+
+.info {
+    width: 196px;
+    height: 89px;
+    left: 176px;
+}

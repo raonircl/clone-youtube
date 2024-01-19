@@ -14,7 +14,7 @@ body {
     top: 84px;
     left: 75px;
     gap: 16px;
-    position: relative;
+    position: absolute;
 }
 
 #texth1 {
